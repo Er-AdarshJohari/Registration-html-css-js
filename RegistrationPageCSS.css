@@ -1,0 +1,30 @@
+body{
+	color: black;
+	font-size: 14px;
+	font-family:"Lucida Sans Unicode";
+	font-weight: bold;
+}
+
+#rsstyle{
+	font-size: 12px;
+	font-family:"Lucida Sans Unicode";
+	font-weight: bold;
+}
+
+.rs:hover{
+	background-color:silver;
+}
+
+h4{
+	text-align: center;
+}
+table,th,td{
+	text-align: right;
+	
+}
+
+table{
+	background-image: url('img1.jpg');
+	border-style:ridge;
+	border-color: silver;
+}
